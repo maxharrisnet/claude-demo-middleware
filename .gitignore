@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.local
+.env*.local
+.vercel/
+.DS_Store
+service-account.json
+marketing-integrations-demo-4cb6bb4a7021.json
+
+# Logs
+*.log
+.remember/logs/
+.remember/tmp/
+
+# Agent runtime
+AGENT/logs/
+AGENT/tmp/
